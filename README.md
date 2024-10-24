@@ -139,6 +139,7 @@ You can build the app and image with the command: `docker build -t ghcr.io/pcott
 <a href="https://github.com/mgarciaisaia"><img src="https://avatars1.githubusercontent.com/u/1190974?v=4" title="mgarciaisaia" width="80" height="80"></a>
 <a href="https://github.com/YourSenseiCreeper"><img src="https://avatars1.githubusercontent.com/u/6324814?&v=4" title="YourSenseiCreeper" width="80" height="80"></a>
 <a href="https://github.com/olsza"><img src="https://avatars1.githubusercontent.com/u/12556170?v=4" title="Olsza" width="80" height="80"></a>
+<a href="https://github.com/dragonsea0927"><img src="https://avatars1.githubusercontent.com/u/177758551?v=4" title="dragonsea" width="80" height="80"></a>
 
 [//]: contributor-faces
 
